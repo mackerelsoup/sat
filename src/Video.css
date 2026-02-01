@@ -1,0 +1,20 @@
+.video-page {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #91f2ab;
+  color: black;
+}
+
+.video-container {
+  width: 95%;
+  max-width: 1400px;
+}
+
+.video-player {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
