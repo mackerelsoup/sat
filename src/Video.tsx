@@ -6,7 +6,7 @@ function Video() {
       <div className="video-container">
         <iframe
           className="video-player"
-          src="https://www.youtube.com/embed/9XNkqxkcpA0?autoplay=1&playsinline=1"
+          src="https://player.cloudinary.com/embed/?cloud_name=dtceiqtbp&public_id=20260201_001502_pzhdhh&autoplay=true"
           title="Video"
           style={{ border: "none" }}
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
